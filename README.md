@@ -8,20 +8,19 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-
  1. Import the required libraries.
    
- 3. Read the data frame using pandas.
+2. Read the data frame using pandas.
  
- 4. Get the information regarding the null values present in the dataframe.
+3. Get the information regarding the null values present in the dataframe.
  
- 5.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+4.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
 
- 6.Determine training and test data set.
+5.Determine training and test data set.
 
- 7.Apply decision tree Classifier on to the dataframe.
+6.Apply decision tree Classifier on to the dataframe.
 
- 8.Get the values of accuracy and data prediction.
+7.Get the values of accuracy and data prediction.
 
 
 ## Program:
