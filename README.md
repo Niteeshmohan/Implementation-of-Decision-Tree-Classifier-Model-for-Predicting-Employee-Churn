@@ -14,13 +14,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
  
 3. Get the information regarding the null values present in the dataframe.
  
-4.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+  4.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
 
-5.Determine training and test data set.
+  5.Determine training and test data set.
 
-6.Apply decision tree Classifier on to the dataframe.
+  6.Apply decision tree Classifier on to the dataframe.
 
-7.Get the values of accuracy and data prediction.
+  7.Get the values of accuracy and data prediction.
 
 
 ## Program:
